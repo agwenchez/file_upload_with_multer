@@ -1,12 +1,12 @@
 {
-  "name": "nodeuploads",
+  "name": "imageupload",
   "version": "1.0.0",
-  "description": "Example for image uploading in Node",
+  "description": "Example for image uploading in Nodejs using multer",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "Agwenchez",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.5.7",
